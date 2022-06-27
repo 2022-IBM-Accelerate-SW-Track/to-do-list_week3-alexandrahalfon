@@ -10,7 +10,7 @@
 
 .left {
   left: 0;
-  background-color: #0f62fe;
+  background-color: purple;
 }
 
 .right {
@@ -26,17 +26,21 @@
 }
 
 .name_title {
-  font-size: 48px;
-  color: black;
-  text-align: left;
-  padding-bottom: 20px;
+  font-size: 36px;
+  color: purple;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 10px;
 }
 
 .brief_description {
+  font-size: 11px;
+  color: black;
   text-align: left;
 }
 
 .profile_image {
   width: 500px;
   height: auto;
+  padding-top: 40px;
 }
